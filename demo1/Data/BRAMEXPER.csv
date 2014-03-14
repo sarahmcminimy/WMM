@@ -1,0 +1,6 @@
+Country,Total coverage,Credit life coverage,Life coverage (excluding credit life),Life and accident coverage (excluding credit life),Health coverage,Accident coverage,Property coverage,Agriculture coverage,Total coverage ratio,Population,GDP per capita,Number of active MFI borrowers,MFI Gross Loan Portfolio
+BRA,10447500,500,7767000,10392500,4100000,9592500,2055000,0,5.359163467,194946470,10710.06597,2007737,1838679288
+MEX,14731412,8770320,13943492,13981412,3605658,5338931,0,0,12.9880235,113423047,9123.405857,5975311,1962828814
+PER,5283286,4094708,1210872,3482574,205294,3226469,0,0,18.1702881,29076512,5401.370135,3636903,8767290355
+,,,,,,,,,,,,,
+CODE,Tot,cre,lif,L_1,Hea,Acc,Pro,Agr,T_1,Pop,GDP,Num,MFI
